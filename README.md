@@ -60,3 +60,9 @@ Lower MAE indicates a smaller average absolute prediction error. The 30-feature 
 ## Acknowledgements
 
 Cortez, P. (2008). *Student Performance*. UCI Machine Learning Repository. [Dataset page](https://archive.ics.uci.edu/dataset/320/student+performance).
+
+## Model Performance Comparison
+
+![Model Performance Comparison](Model%20Performance%20Comparison.png)
+
+Lower MAE is better. In this experiment, the 30-feature Linear Regression model achieved the lowest MAE (3.40), compared with the baseline MAE of 3.65. Results are from a single 80:20 train-test split.
